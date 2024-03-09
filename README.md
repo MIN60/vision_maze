@@ -86,6 +86,8 @@ data.yaml 파일입니다.
 
 출구에 도달하면 축하 이미지가 뜹니다.
 
+## 플레이 영상
+[![Video Label](http://img.youtube.com/vi/bLYTToW55a4/0.jpg)](https://youtu.be/bLYTToW55a4)
 
 
 
